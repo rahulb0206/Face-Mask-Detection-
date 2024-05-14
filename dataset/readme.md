@@ -1,0 +1,1 @@
+The dataset used for training the model was sourced from Kaggle and other online resources. It comprises a diverse range of images depicting individuals wearing masks and without masks. Due to its size, the dataset is not included in this repository but can be obtained from the mentioned sources.
