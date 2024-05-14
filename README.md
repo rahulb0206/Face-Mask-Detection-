@@ -18,6 +18,9 @@ The trained model is then integrated into a Python script capable of capturing v
 
 # Dataset
 The dataset used for training the model is crucial for the performance of the face mask detection system. It should contain a diverse range of images depicting individuals wearing masks and without masks. The dataset used in this project can be found in the respective folders mentioned above.
+![without mask screenshot](https://github.com/rahulb0206/Face-Mask-Detection-/assets/49830158/be88c10d-d0f6-4d4c-8208-4a054c87207b)
+
+![Mask screenshot](https://github.com/rahulb0206/Face-Mask-Detection-/assets/49830158/1731c53c-3b5c-4910-b5aa-2653ff033165)
 
 # Output
 The output of the face mask detection system includes annotated images and video streams showing detected faces and their mask status.
